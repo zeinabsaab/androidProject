@@ -84,7 +84,7 @@ public class Main2Activity extends AppCompatActivity {
                 String cat=category.getText().toString();
                 DatabaseReference reference = FirebaseDatabase.getInstance().getReference("database").child("Category");
                 Category n=new Category(cat);
-
+//fghfghkuuhi7rygdtttdtyyj
                 reference.push().setValue(n);
                 Toast.makeText(Main2Activity.this,"category insert",Toast.LENGTH_LONG).show();
                 //image upload
