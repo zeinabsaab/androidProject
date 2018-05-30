@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PPPP</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_view_title">Title :</string>
+    <string name="txt_view_source">Source:</string>
+    <string name="txt_view_New">News:</string>
+    <string name="txt_view_attachment">Attachment:</string>
+    <string name="action1">Add_Category</string>
+    <string name="txt_view_new_category">New_Category:</string>
+    <string name="txt_view_new_photos">New_photos:</string>
+    <string name="txt_view_add_new_photos">done</string>
+    <string name="txt_view_cancel">cancel</string>
+    <string name="category">category:</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
