@@ -16,7 +16,7 @@ public class Category {
     }
     public Category()
     {
-//gfyyjujigfrfgvbkjuughy
+
     }
     public Category(String category)
     {
